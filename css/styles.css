@@ -1,0 +1,60 @@
+body {
+    color: rgb(73, 86, 65);
+    font-family: arial;
+}
+
+div {
+    min-height:100vh;
+    width: 100vw;
+    margin: auto ;
+}
+h1,
+h2 {
+    text-align:center ;
+}
+
+h1 {
+    font-size: 5em;
+    padding: 100px;
+}
+img {
+    display: flex ;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    padding: auto;
+    border-radius: 130px;
+    
+}
+ p{
+    width: 40%;
+    margin-top: 10vh;
+    margin-bottom: 10;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    font-size: 1em;
+}
+
+h2{
+    background: black(0,0,0);
+}
+
+ol{
+    padding: 0;
+    margin-bottom: 10%;
+    list-style: none;
+    
+}
+
+li
+{margin: top 50px;
+margin-bottom: 50px;
+}
+
+
+ .HTML is cool {text-align: left;}
+
+ .CSS is cooler {text-align: center;}
+
+ .JS is the best {text-align: right;}
+
